@@ -1,2 +1,3 @@
 # Ttop
 Solving a minor inconvinence using python.
+For a while now I have had this issue of constantly checking my phone for the google auth code to check the number there and login into github since I have 2FA verification. Now could I have turned it off? Yes, did I? No. Because it was mandatory for an issue I faced a while back and I don't even remember what it was but what ended up happening was I had this repetitive issue since then. Now I am building a simlar app, and hopefully I will convert it into an exe app to run on my pc so I don't have to check my phone everytime.
