@@ -16,3 +16,4 @@ signature = hmac.new(
     hashlib.sha256
 ).hexdigest()
 print(signature)
+#PC charger ain't working and I am not losing my git streak over this. 
